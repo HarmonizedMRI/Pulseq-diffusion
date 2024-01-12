@@ -371,6 +371,11 @@ end
 % figure; plot(ktraj(1,:),ktraj(2,:),'b'); % a 2D plot
 % axis('equal'); % enforce aspect ratio for the correct trajectory display
 % hold on;plot(ktraj_adc(1,:),ktraj_adc(2,:),'r.'); % plot the sampling points
+%% check lock-out frequency (acoustic resonance peaks check)
+
+ascName='MP_GPA_K2309_2250V_951A_AS82.asc';% Siemens Prisma VE11C
+sys=lims;
+gradSpectrum;
 
 %% prepare the sequence output for the scanner
 seq.setDefinition('FOV', [fov fov thickness*Nslices]);
