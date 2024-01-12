@@ -5,4 +5,7 @@ standard SE-EPI diffusion sequence
 /demoSeq/writeEpiDiffusionRS_3shot_v2_2us_appa_spoiler.m: 
 3-shot reference
 
-by Qiang Liu et al., Brigham and Women's Hospital, Harvard Medical School.
+
+by Qiang Liu et al., 
+qliu30@mgh.harvard.edu
+Brigham and Women's Hospital, Harvard Medical School.
