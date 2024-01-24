@@ -5,6 +5,8 @@ standard SE-EPI diffusion sequence
 /demoSeq/writeEpiDiffusionRS_3shot_v2_2us_appa_spoiler.m: 
 3-shot reference
 
+# GRAPPA Recon code
+https://github.com/QiangLiu0310/Pulseq-diffusion_recon
 
 by Qiang Liu et al., 
 qliu30@mgh.harvard.edu
