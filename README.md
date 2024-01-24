@@ -1,11 +1,11 @@
-# Pulseq-diffusion
+# Pulseq-diffusion sequence
 
 /demoSeq/writeEpiDiffusionRS_multishot_dti_v2_appa_R3_1003.m: 
 standard SE-EPI diffusion sequence
 /demoSeq/writeEpiDiffusionRS_3shot_v2_2us_appa_spoiler.m: 
 3-shot reference
 
-# GRAPPA Recon code
+# Reconstruction code (matlab, GRAPPA)
 https://github.com/QiangLiu0310/Pulseq-diffusion_recon
 
 by Qiang Liu et al., 
