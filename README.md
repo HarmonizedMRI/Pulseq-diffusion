@@ -3,6 +3,8 @@
 MatLab code to create diffusion EPI sequences to be run using the Pulseq sequence programming environment 
 (https://pulseq.github.io/).
 
+Please run setup.m to set up the path and edit the Pulseq-diffusion sequence
+
 /demoSeq/writeEpiDiffusionRS_multishot_dti_v2_appa_R3_1003.m: 
 standard SE-EPI diffusion sequence
 /demoSeq/writeEpiDiffusionRS_3shot_v2_2us_appa_spoiler.m: 
