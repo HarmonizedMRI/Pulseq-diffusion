@@ -16,3 +16,6 @@ https://github.com/QiangLiu0310/Pulseq-diffusion_recon
 by Qiang Liu et al., 
 qliu30@mgh.harvard.edu
 Brigham and Women's Hospital, Harvard Medical School.
+
+# Our recent work published in MRM:
+Liu Q, Ning L, Shaik IA, et al. Reduced cross-scanner variability using vendor-agnostic sequences for single-shell diffusion MRI. Magn Reson Med. 2024;1-11. doi: 10.1002/mrm.30062
